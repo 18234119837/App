@@ -1,6 +1,8 @@
 body{
     background: #FBFBFA;
-
+}
+a{
+    color: black;
 }
 /*头部开始*/
 header{
