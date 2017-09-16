@@ -108,7 +108,7 @@ nav{
 .banner{
     width: 100%;
     height: 2.16rem;
-    background: yellowgreen;
+    /*background: yellowgreen;*/
     position: relative;
 }
 .banner-img{
@@ -251,12 +251,14 @@ nav{
     padding:0 .17rem;
 }
 .foot-box div{
-    width: .3rem;
-    height: .3rem;
-    background: plum;
-    margin-top: .2rem;
-
-
+    /*width: .3rem;*/
+    /*height: .3rem;*/
+    /*background: plum;*/
+    /*margin-top: .2rem;*/
+    font-size:.14rem;
+line-height:.64rem;
 }
 /*固定底部结束*/
-
+a{
+    color: black;
+}

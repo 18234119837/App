@@ -1,0 +1,165 @@
+header{
+	width:3.40rem;
+	height: 0.44rem;
+	padding: 0px 0.12rem;
+	background: #eee;
+	border: 1px solid #e1e1e1;
+	position: absolute;
+	top: 0;
+	right: 0.35rem;
+	left: 0;
+	margin: auto;
+	color: #333;
+	font-size: 0.14rem;
+    line-height: 0.44rem;
+    font-family: "微软雅黑";
+}
+aside{
+	width: 0.35rem;
+	height: 6.67rem;
+	position: absolute;
+	top: 0;
+	right: 0rem;
+	left: 3.4rem;
+	margin: auto;
+	background-color: rgba(0, 0, 0, 0.4);
+}
+aside p{
+	width: 15px;
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    margin: -54px 0 0;
+    font-size: 14px;
+    line-height: 14px;
+    color: #b5b5b5;
+}
+section{
+	width:3.40rem;
+	overflow-y: scroll;
+	position: absolute;
+	top: 0.44rem;
+	right: 0.35rem;
+	left: 0;
+	bottom: 0;
+	margin: auto;
+	display: flex;
+	display: -wekit-flex;
+	justify-content:space-between;
+}
+.left{
+	width:0.8rem;
+	overflow-y: scroll;
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	margin: auto;
+	background: blue;
+}
+.right{
+	width: 2.6rem;
+	padding: 0.1rem 0.1rem;
+	overflow-y: scroll;
+	position: absolute;
+	top: 0;
+	right: 0.35rem;
+	left: 0.8rem;
+	bottom: 0;
+	margin: auto;
+}
+.fenglei{
+	width: 100%;
+	height: 100%;
+	color: #333;
+	font-size: 14px;
+	line-height: 0.6rem;
+	text-align: center;
+	display: flex;
+	display: -wekit-flex;
+	flex-wrap: wrap;
+}
+.fenglei li{
+	width: 0.8rem;
+	height: 0.6rem;
+	border: 1px solid #E1E1E1;
+	border-right: 0px;
+	border-top: 0px;
+	background: #eee;
+}
+.fenglei li:nth-child(1){
+	background: #fff;
+}
+.list{
+	width: 2.4rem;
+	height: 2.48rem;
+}
+.list1{
+	width: 2.4rem;
+	height: 1.46rem;
+}
+.yifu{
+	width: 100%;
+	height: 0.44rem;
+	padding: 0.15rem 0rem;
+	font-size: 0.14px;
+    line-height: 0.14px;
+    color: #9B9B9B;
+    font-family: "微软雅黑";
+}
+
+.nvzhuang li{
+	width: 0.8rem;
+	height: 0.92rem;
+	padding: 0rem; 
+}
+.nvzhuang{
+	display: flex;
+	display: -wekit-flex;
+	justify-content:space-between;
+	flex-wrap: wrap; 
+}
+.pucture{
+	width: 0.61rem;
+	height: 0.61rem;
+	background: yellow;
+	margin: 0 auto;
+	position: relative;
+}
+.pucture img{
+	position: absolute;
+}
+.wenzi{
+	line-height: 23px;
+    height: 23px;
+    padding: 4px 0;
+    font-size: 14px;
+    color: #5D5D5D;
+    text-align: center;
+    font-family: "微软雅黑";
+}
+.nvxie li{
+	width: 0.8rem;
+	height: 0.92rem;
+	padding: 0rem; 
+}
+.nvxie{
+	display: flex;
+	display: -wekit-flex;
+	justify-content:space-between;
+	flex-wrap: wrap; 
+}
+
+
+
+
+
+
+/* footer{
+	width:100%;
+	height: 0.77rem;
+	bottom: 0;
+	right:0;
+	left: 0;
+	margin: auto;
+}  */
